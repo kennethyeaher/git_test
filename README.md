@@ -1,5 +1,8 @@
 # First Git Project
 
+![Git](docs/readme/badges/git-F05032.svg)
+![GitHub](docs/readme/badges/github-181717.svg)
+
 My first Git practice repository, created in April 2021. It records the start of my work with repositories and version control.
 
 The repository contains this README and an empty `hello_world.txt` file. There is no application, dependency setup, or executable demo.
